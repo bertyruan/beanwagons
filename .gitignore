@@ -1,3 +1,5 @@
 Notes.txt
-cmpsc-checklist/bower_components/**
+web_dev/cmpsc-checklist/bower_components/**
 bower_components/**
+data_science/NYC_subway/.ipynb_checkpoints/**
+data_science/NYC_subway/NYC_data_project_report.ipynb
