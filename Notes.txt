@@ -1,0 +1,2 @@
+https://docs.angularjs.org/tutorial/step_02
+> step 02 first mentions writing and running tests 
